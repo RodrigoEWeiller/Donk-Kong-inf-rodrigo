@@ -1,0 +1,30 @@
+
+(algo extra) d
+      zzzzzzzhzzzzzzzzzzzz
+             h
+             h
+    d  E     s   E   d  
+zzzzhzzzzzzzzzzzzzzzzhzzzzzzz
+    h                h
+    h                h   E  d  
+    h             zzzzzzzzzzh
+    h                       h
+    h  d                    h
+zzzzzzzhzzzz       d         s
+       h          zhzzzzzzzzz
+       h           h
+  E    s           h
+zzzzzzzzzzzzzzzz   h
+h                  h
+h                  s E  d
+h                 zzzzzzhzzzz  
+h                       h
+h          z            h
+s        E z            h
+zzzzzzzzzzzz            h
+     h                  h
+     h                  h
+     h                  h
+     h                  h 
+p    s   E              s   f
+zzzzzzzzzzz       zzzzzzzzzzz
