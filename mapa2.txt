@@ -1,0 +1,30 @@
+
+
+f              e           d
+zzzzzzzzzzzzzzzzzzzzzzzzzzhzz
+                          h
+                          h
+                          h
+        d                 s
+zzzzzzzzhzzzzzzz    zzzzzzzzz
+        h
+        h
+        h
+        s    e       d
+       zzzzzzzzzzzzzzhzzzzzzz             
+                     h 
+                     h 
+                     h
+        d       e    s
+    zzzzhzzzzzzzzzzzzzz
+        h
+        h 
+        h
+        s         e      d
+zzzzzzzzzzzzzzzzzzzzzzzzzhzzz                             
+                         h
+                         h 
+                         h
+                         h
+p                    e   s 
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzz
